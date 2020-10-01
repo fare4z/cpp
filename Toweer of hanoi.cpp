@@ -1,5 +1,6 @@
 /* Fareez Borhanudin 
 Tower Of Hanoi
+Feel free for pr this code. 
 */
 
 #include <iostream>
